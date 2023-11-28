@@ -19,8 +19,8 @@ Project Name 2: Highlighting another impactful project.
 --->
 
 ### 🏆 Achievements
-Employee of the Year (2021) and multiple Employee of the Month awards.
-Gold badge on Hackerrank for problem-solving.
+Employee of the Year (2021) and multiple Employee of the Month awards
+Gold badge on Hackerrank for problem-solving
 
 ### 📚 Certifications
 Machine Learning Specialization by DeepLearning.AI - Stanford University.
