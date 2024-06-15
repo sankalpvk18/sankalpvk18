@@ -19,12 +19,12 @@ Project Name 2: Highlighting another impactful project.
 --->
 
 ### 🏆 Achievements
-Employee of the Year (2021) and multiple Employee of the Month awards
-Gold badge on Hackerrank for problem-solving
+#### Employee of the Year (2021) and multiple Employee of the Month awards
+#### Gold badge on Hackerrank for problem-solving
 
 ### 📚 Certifications
-Machine Learning Specialization by DeepLearning.AI - Stanford University.
-Generative AI with Large Language Models — DeepLearning.AI & Amazon Web Services.
+#### Machine Learning Specialization by DeepLearning.AI - Stanford University.
+#### Generative AI with Large Language Models — DeepLearning.AI & Amazon Web Services.
 
 ### 🌐 Let's Connect!
 Feel free to explore my repositories, and let's connect on [LinkedIn](https://linkedin.com/in/sankalpvk18) and [GitHub](https://github.com/sankalpvk18/). I'm always open to collaborations and discussions on innovative projects.
