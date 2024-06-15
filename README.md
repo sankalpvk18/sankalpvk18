@@ -24,6 +24,7 @@ Gold badge on Hackerrank for problem-solving
 
 ### 📚 Certifications
 Machine Learning Specialization by DeepLearning.AI - Stanford University.
+Generative AI with Large Language Models — DeepLearning.AI & Amazon Web Services.
 
 ### 🌐 Let's Connect!
 Feel free to explore my repositories, and let's connect on [LinkedIn](https://linkedin.com/in/sankalpvk18) and [GitHub](https://github.com/sankalpvk18/). I'm always open to collaborations and discussions on innovative projects.
