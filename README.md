@@ -6,7 +6,7 @@ I'm passionate about Artificial Intelligence and Machine Learning and my journey
 I'm a dedicated professional with a fervor for AI and Machine Learning. My hands-on experience includes crafting solutions using diverse web and mobile application technologies. From developing scalable applications to exploring the realms of artificial intelligence, my journey is characterized by a commitment to innovation.
 
 ### 🛠️ Core Competencies
-#### Programming Languages: Python, Java, Scala
+#### Programming Languages: Python, Java, Kotlin, Swift, JavaScript
 #### Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, NLP
 #### Data Tools: TensorFlow, Keras, scikit-learn, Jupyter Notebook
 #### Databases: MySQL, MongoDB
