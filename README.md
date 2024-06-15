@@ -19,7 +19,7 @@ Project Name 2: Highlighting another impactful project.
 --->
 
 ### 🏆 Achievements
-#### Employee of the Year (2021) and multiple Employee of the Month awards
+#### Employee of the Year (2021); Employee of the Month (Oct 2019, Jan 2020, Dec 2020)
 #### Gold badge on Hackerrank for problem-solving
 
 ### 📚 Certifications
