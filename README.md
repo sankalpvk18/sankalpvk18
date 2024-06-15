@@ -10,6 +10,7 @@ I'm a dedicated professional with a fervor for AI and Machine Learning. My hands
 #### Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, NLP, Transformer Models, LLMs (Llama2, Mistral)
 #### Data Tools: TensorFlow, Keras, scikit-learn, Jupyter Notebook
 #### Databases: MySQL, MongoDB
+#### Mobile application development: Android, iOS, React Native
 #### Software Development: HTML, CSS, React, Angular, TypeScript, Git, Postman, Figma, Agile, Scrum, JIRA
 
 
