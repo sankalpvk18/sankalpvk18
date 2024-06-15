@@ -7,10 +7,11 @@ I'm a dedicated professional with a fervor for AI and Machine Learning. My hands
 
 ### 🛠️ Core Competencies
 #### Programming Languages: Python, Java, Kotlin, Swift, JavaScript
-#### Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, NLP
+#### Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, NLP, Transformer Models, LLMs (Llama2, Mistral)
 #### Data Tools: TensorFlow, Keras, scikit-learn, Jupyter Notebook
 #### Databases: MySQL, MongoDB
-#### Web Development: HTML, CSS, React
+#### Software Development: HTML, CSS, React, Angular, TypeScript, Git, Postman, Figma, Agile, Scrum, JIRA
+
 
 <!---
 📂 Key Projects
